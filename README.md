@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KamalVerma125-coder](https://github.com/KamalVerma125-coder)
 
-- 💬 Ask me about **How to Analyze or Maniplate the Data**
+- 💬 Ask me about **How to Analyze and Manipulate the Data**
 
 - 📫 How to reach me **Kamalkbk750@gmail.com**
 
