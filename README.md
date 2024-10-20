@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamal</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*vtLSZJpcGTK-iJ8T.gif"> <!-- Update this URL -->
+<img align="right" alt="coding" width="300" src="https://cdn.prod.website-files.com/6672f2c52186ba163a2a83d7/669e897752088072f2586e92_Business%20Plan.gif"> <!-- Update this URL -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalverma125-coder&label=Profile%20views&color=0e75b6&style=flat" alt="kamalverma125-coder" /> </p>
 
@@ -9,6 +9,7 @@
 - 💬 Ask me about **how to analyze and manipulate data**
 - 📫 How to reach me: **Kamalkbk750@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kamal-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamal-verma" height="30" width="40" /></a>
@@ -16,6 +17,7 @@
 <a href="https://instagram.com/kamal_verma120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamal_verma120" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@kamalkbk750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kamalkbk750" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -26,6 +28,8 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 </p>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalverma125-coder&show_icons=true&locale=en&layout=compact" alt="kamalverma125-coder" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalverma125-coder&show_icons=true&locale=en" alt="kamalverma125-coder" /></p>
