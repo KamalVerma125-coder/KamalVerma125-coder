@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kamal</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.olgaberezovsky.com%2Ftagged%2Fdata-science&psig=AOvVaw34_1m6afqNUxPWoSVzTcvq&ust=1729501490836000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjWx6PNnIkDFQAAAAAdAAAAABAZ">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalverma125-coder&label=Profile%20views&color=0e75b6&style=flat" alt="kamalverma125-coder" /> </p>
 
 - 🌱 I’m currently learning **Some Developing Language's Like Python,HTML.**
